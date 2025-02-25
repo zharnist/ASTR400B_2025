@@ -72,12 +72,13 @@ def SurfaceDensity(r,m):
     
     RETURNS
     -------
-        sigma: array of `floats` - surface mass density profile 
-         [1e10 Msun/kpc^2] 
-        
         r_annuli : array of `floats` -  radial bins for the 
             annuli that correspond to the surface mass density profile
     
+        sigma: array of `floats` - surface mass density profile 
+         [1e10 Msun/kpc^2] 
+        
+       
     """
     
     # Create an array of radii that captures the extent of the bulge
