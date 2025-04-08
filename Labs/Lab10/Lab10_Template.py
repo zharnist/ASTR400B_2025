@@ -1,5 +1,5 @@
 
-# # Lab 9 Dynamical Friction
+# # Lab 10 Dynamical Friction
 # 
 # Starting from the Homework 7 Solutions, add Dynamical Friction to better match the simulation data. 
 # 
