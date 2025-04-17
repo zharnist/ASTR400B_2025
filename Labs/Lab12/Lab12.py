@@ -623,7 +623,7 @@ matplotlib.rcParams['ytick.labelsize'] = label_size
 legend = ax.legend(loc='upper left',fontsize=20)
 
 # Save to a file
-plt.savefig('Lab11_LookBackTime.png')
+plt.savefig('Lab12_LookBackTime.png')
 
 
 # ## Question 2 C)
@@ -741,7 +741,7 @@ matplotlib.rcParams['ytick.labelsize'] = label_size
 legend = ax.legend(loc='upper right',fontsize=20)
 
 # Save to a file
-plt.savefig('Lab11_HorizonDistance.png')
+plt.savefig('Lab12_HorizonDistance.png')
 
 
 # ## Question 3 B)
